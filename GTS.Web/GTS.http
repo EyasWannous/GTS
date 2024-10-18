@@ -1,0 +1,6 @@
+@GTS_HostAddress = http://localhost:5267
+
+GET {{GTS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
